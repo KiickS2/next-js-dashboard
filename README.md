@@ -1,6 +1,6 @@
 ## Descrição
 
-O Painel de Faturas é uma aplicação web desenvolvida para ajudar os usuários a gerenciar suas faturas de forma eficiente. Ele oferece uma interface intuitiva e funcionalidades robustas para facilitar o acompanhamento das finanças e o gerenciamento das transações. O projeto foi oferecido pelo próprio Next.js, como projeto de aprendizado e enriquecimento de conceitos essenciais sobre Next.js.
+O Painel de Invoices(Faturas) é uma aplicação web desenvolvida para ajudar os usuários a gerenciar suas faturas de forma eficiente. Ele oferece uma interface intuitiva e funcionalidades robustas para facilitar o acompanhamento das finanças e o gerenciamento das transações. O projeto foi oferecido pelo próprio Next.js, como projeto de aprendizado e enriquecimento de conceitos essenciais sobre Next.js.
 
 ## Tecnologias Utilizadas
 
