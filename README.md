@@ -16,10 +16,10 @@ O uso do Next.js no projeto fornece uma base sólida para o desenvolvimento de a
 ## Imagens
 
 ### Página de Login
-![Imagem Login](/login.png)
+![Imagem Login](/public/login.png)
 
 ### Página de Dashboard
-![Página Dashboard](/dashboard.png)
+![Página Dashboard](/public/dashboard.png)
 
 ### Página de Invoices
-![Página Invoices](/invoices.png)
+![Página Invoices](/public/invoices.png)
