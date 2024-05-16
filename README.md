@@ -22,4 +22,4 @@ O uso do Next.js no projeto fornece uma base sólida para o desenvolvimento de a
 ![Página Dashboard](/dashboard.png)
 
 ### Página de Invoices
-![Página Invoices](/invoices.png)
+![Página Invoices](/invoices.png) 
